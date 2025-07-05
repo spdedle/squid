@@ -12,4 +12,12 @@ p {
 img {
   border-radius: 50px;
 }
-
+.button {
+  color:rgb(80, 115, 151);
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgb(220, 230, 240);
+  .button:hover {opacity: 100}
+  cursor: pointer;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+};
