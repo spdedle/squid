@@ -1,9 +1,15 @@
 body {
-  background-color: powderblue;
+  background-color: rgb(245, 250, 255);
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1 {
-  color: blue;
+  color: rgb(100, 170, 200);
 }
 p {
-  color: red;
+  color: rgb(80, 115, 151);
 }
+img {
+  border-radius: 50px;
+}
+
